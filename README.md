@@ -1,3 +1,19 @@
+How to use :
+
+Don't git pull it as I'm a newbie in making git repos
+first copy the script text from this file
+https://github.com/bithadder/sector-anti8444/blob/main/sectoranti8444.sh
+
+then on your ubuntu cli create a new file named sector-anti8444.sh
+using the command `nano sector-anti8444.sh`
+paste the contents from the github there
+change the user or path as needed
+
+then to run type `sh sector-anti8444.sh`
+
+if you want to make it executable you can do a `chmod +x sector-anti8444.sh`
+ 
+
 # sector-anti8444
 Remove 8444 connections from sector node on Linux
 
