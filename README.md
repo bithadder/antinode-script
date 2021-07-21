@@ -3,6 +3,8 @@ How to use :
 Don't git clone it as I'm a newbie in making git repos
 first copy the script text from the wanted file for each forks above
 
+Currently available are for sector, wheat, and lambo
+
 Note that [forkname] can be changed to whatever fork you're running
 
 then on your ubuntu cli create a new file named antinodes-[forkname].sh
